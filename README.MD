@@ -1,4 +1,4 @@
-# Jobster API
+# Jobster 
 
 #### Starter
 
